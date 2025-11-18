@@ -11,10 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,5 +20,32 @@ Build a responsive product preview card component with mobile and desktop layout
 
 ### Screenshot
 
-! [Desktop-view] ('./images/desktop preview.png')
-! [Mobile-preview] ('./images/Mobile preview.png')
+![Desktop view] ('./images/desktop preview.png')
+![Mobile preview] ('./images/Mobile preview.png')
+
+### Links
+
+[Solution URL](https://github.com/Princeviii/Product-preview-card-component)
+[Live URL] (https://princeviii.github.io/Product-preview-card-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+- How to implement responsive images using the <picture> element.
+- Proper semantic HTML structure and using <article>, <section>.
+- Using Flexbox for both column and row layouts.
+- Handling overflow and spacing for clean layouts.
+
+## Author
+
+- Frontend: [Frontend] (https://www.frontendmentor.io/profile/Princeviii)
+- Github: [Github] (https://github.com/Princeviii)
