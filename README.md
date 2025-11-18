@@ -1,16 +1,19 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Product Preview Card Component Solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [Product Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,32 +23,39 @@ Build a responsive product preview card component with mobile and desktop layout
 
 ### Screenshot
 
-![Desktop view] ('./images/desktop preview.png')
-![Mobile preview] ('./images/Mobile preview.png')
+Desktop preview
+
+- ![](/images/desktop-preview.png)
+
+Mobile preview
+
+- ![](/images/Mobile-preview.png)
 
 ### Links
 
-[Solution URL](https://github.com/Princeviii/Product-preview-card-component)
-[Live URL] (https://princeviii.github.io/Product-preview-card-component/)
+- [Solution URL](https://github.com/Princeviii/Product-preview-card-component)
+- [Live Site](https://princeviii.github.io/Product-preview-card-component/)
 
-## My process
+## My Process
 
-### Built with
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Google Fonts (Montserrat, Fraunces, Figtree)
 
-### What I learned
+### What I Learned
 
-- How to implement responsive images using the <picture> element.
-- Proper semantic HTML structure and using <article>, <section>.
+- How to implement responsive images using the `<picture>` element.
+- Proper semantic HTML structure using `<article>` and `<section>`.
 - Using Flexbox for both column and row layouts.
 - Handling overflow and spacing for clean layouts.
+- Creating a visually appealing “Add to Cart” button with hover effects.
 
 ## Author
 
-- Frontend: [Frontend] (https://www.frontendmentor.io/profile/Princeviii)
-- Github: [Github] (https://github.com/Princeviii)
+- Frontend: [Frontend Mentor](https://www.frontendmentor.io/profile/Princeviii)
+- GitHub: [Princeviii](https://github.com/Princeviii)
